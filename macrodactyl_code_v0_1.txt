@@ -1,0 +1,26 @@
+The Macrodactyl Code // v0.1 // September 2017
+
+Macrodactyl Computer Club (MCC) is a music, code & art collective which exists as an open platform that anybody can join.  
+
+Artworks & pieces of music are released via GitHub as free open source software, and anyone is free to contribute to or utilise these created works for any non-commercial purpose, and with the understanding that derivative works must be shared under these same conditions.
+
+Macrodactyl Computer Club is defined by all of its members, and simultaneously by none of them. Any member may utilise the open source software, art & music from the GitHub repository which constitute MCC’s body of works and hold a performance, installation or event as “Macrodactyl Computer Club” whether they are accompanied by other members of MCC or not.
+
+For the art & music world to benefit from the de-commodification of ideas in the same way as the world of Free & Open Source Software (FOSS), we must separate our ideas from the notion of ownership. Being the first person to think of something has no inherent value, whereas being the first person to act upon that idea is inherently valuable, as only then is the idea truly shared. Once an idea is shared it becomes free to evolve with the input of others and plant seeds for subsequent future ideas.
+
+Members of Macrodactyl Computer Club share ideas with one another, and when utilising those ideas will credit the contributions of others as well as sharing the results and methodology, utilising open source tools wherever possible. Sole ownership & exclusivity serve only to stifle creativity and block the creation of derivative works, and MCC works shall never be exclusively owned or used in this manner.
+
+Recognising the importance of inclusivity, diversity & accessibility, we created Macrodactyl Computer Club as the first completely open collective for the creation of art, code & music. Anybody & everybody is welcome to join, regardless of their level of skill, ability or experience, as MCC is intended to be as much about education & skill-sharing as it is about co-creating & performing. The collective is a supportive group of contributors & collaborators, a safe space to experiment, create & perform for those of all genders, ethnicities, classes, races, sexual orientations & species. Committing abusive or discriminatory acts will result in expulsion from the collective.
+
+We are Macrodactyl, I am Macrodactyl, everybody is Macrodactyl, nobody is Macrodactyl. 
+
+www.macrodactl.io
+
+
+To announce your membership to the collective, please copy the text below, fill in the 3 requested details and submit via email to membership@macrodactyl.io with the understanding that your name (or pseudonym) URL will be shared. The date will serve only to list members in chronological order and your email address will not be shared, however it will be added to the members-only mailing list.
+
+I have read & understood the Macrodactyl Code (v0.1) and hereby swear that I will do my best to abide by the principals of the Macrodactyl Computer Club whenever I represent them.
+
+Name (or pseudonym):
+URL:
+Date:
