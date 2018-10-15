@@ -1,4 +1,4 @@
-The Macrodactyl Code // v0.1 // September 2017
+The Macrodactyl Code // v0.2 // October 2018
 
 Macrodactyl Computer Club (MCC) is a music, code & art collective which exists as an open platform that anybody can join.  
 
@@ -14,13 +14,8 @@ Recognising the importance of inclusivity, diversity & accessibility, we created
 
 We are Macrodactyl, I am Macrodactyl, everybody is Macrodactyl, nobody is Macrodactyl. 
 
-www.macrodactl.io
+macrodactyl.github.io
 
+To become a member of the collective, you must simply decide that you have become one of us. No interaction is required, and you are free to start performing, creating & sharing ideas as a representative of this amorphous community immediately. If you wish to announce your membership to the collective, please copy the text below and paste it to an online platform of your choosing:
 
-To announce your membership to the collective, please copy the text below, fill in the 3 requested details and submit via email to membership@macrodactyl.io with the understanding that your name (feel free to use a pseudonym) and URL will be shared. The date will serve only to list members in chronological order and your email address will not be shared, however it will be added to the members-only mailing list.
-
-I have read & understood the Macrodactyl Code (v0.1) and hereby swear that I will do my best to abide by the principals of the Macrodactyl Computer Club whenever I represent them.
-
-Name:
-URL:
-Date:
+I have read & understood the Macrodactyl Code (v0.2)// I hereby swear that I will do my best to abide by the principals of the Macrodactyl Computer Club whenever I represent them// We are Macrodactyl, I am Macrodactyl, everybody is Macrodactyl, nobody is Macrodactyl.github.io
